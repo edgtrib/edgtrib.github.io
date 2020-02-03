@@ -1,0 +1,25 @@
+table{
+border: solid 2px;
+background-color: darkgray;
+height: 100px;
+width: 400px;
+text-align: center;
+}
+td{
+    text-align: center;
+    border: solid 2px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+h1.antraste{
+    font-size: 60px;
+    text-align: center;
+    color: crimson;
+}
+.duomenys{
+    text-decoration: none;
+    color: black;
+}
+img.pav{
+    width: 200px;
+}
