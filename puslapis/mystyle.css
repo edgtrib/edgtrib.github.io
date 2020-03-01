@@ -1,0 +1,69 @@
+.pavadinimas{
+color: #125585;
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+a.header{
+color: #125585;
+font-size: 20px;
+text-decoration: none;
+line-height: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.blokas {
+padding-top: 20px;
+background-color: #d5f4e6;
+width: 400px;
+height: 200px;
+text-align: center;
+line-height: 17px;
+font-family: Verdana;
+}
+.img{
+height: 170px;
+}
+.antras{
+display: inline-block;
+padding-top: 20px;
+width: 390px;
+height: 200px;
+display: flex;
+justify-content: center;  
+align-items: center;
+background-color:#d5f4e6;
+}
+.outer{
+width: 700px;
+height: 200px;
+margin: auto;
+display: flex;
+justify-content: center;  
+align-items: center;
+}
+div.info{
+padding: 2px;
+display: flex;
+align-items: center;
+background-color: #125585;
+height: 20px;
+}
+.nuoroda{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: none;
+color: #d5f4e6;
+}
+p.tekstas{
+font-size: 15px;
+color: #618685;
+padding: 5px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.data{
+    font-size: 10px;
+    opacity: 60%;
+    color: #618685;
+}
