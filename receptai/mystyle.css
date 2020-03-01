@@ -1,0 +1,44 @@
+table{
+    border: solid 2px;
+    padding-top: 10px;
+    background-color: darkgray;
+    width: 600px;
+    background-color: beige;
+    }
+    td{
+        height: 28px;
+        margin-top: 10%;
+        margin-bottom: 10%;
+        text-align: center;
+    }
+    h1.antraste{
+        font-size: 60px;
+        text-align: center;
+        color: purple;
+    }
+    .duomenys{
+        text-decoration: none;
+        font-size: 20px;
+        color: purple;
+    }
+    img.pav{
+        width: 200px;
+    }
+    .epic{
+    text-align: left;
+    }
+    .title{
+        color: purple;
+        font-size: 20px;
+    }
+    .recept{
+        text-align: left;
+    }
+    .duomen{
+        color: purple;
+        font-size: 12px;
+    }
+    #vardas {
+        font-size: medium;
+        color: salmon;
+    }
